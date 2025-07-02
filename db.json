@@ -1,0 +1,46 @@
+{
+  "notes": [
+    {
+      "tags": [
+        "movie",
+        "action",
+        "crime"
+      ],
+      "content": "vikram veda",
+      "id": 1750317545308
+    },
+    {
+      "tags": [
+        "series",
+        "kdrama"
+      ],
+      "content": "when life gives you tangerines",
+      "id": 1750317551981
+    },
+    {
+      "tags": [
+        "movie",
+        "comedy",
+        "action"
+      ],
+      "content": "bullet train",
+      "id": 1750317565449
+    },
+    {
+      "tags": [
+        "series",
+        "anime"
+      ],
+      "content": "solo leveling",
+      "id": 1750317573220
+    },
+    {
+      "tags": [
+        "series",
+        "anime"
+      ],
+      "content": "cowboy beebop",
+      "id": 1750317578148
+    }
+  ]
+}
